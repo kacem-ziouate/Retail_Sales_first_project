@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Database**: `p1_retail_db`
+
 
 This project showcases practical SQL skills used by data analysts to work with retail sales data. It covers the complete process of building a database, exploring the data, cleaning inconsistencies, and extracting meaningful insights using SQL queries.
 
